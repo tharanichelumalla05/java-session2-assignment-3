@@ -1,0 +1,10 @@
+JIT(JUST-IN-TIME):
+                  JIT(just-in-time) compiles parts of the byte code that have similar functionality at the same time and hence reduces the amount of                   time needed for compilation.
+                  Byte code:it is compiled format for java programs.
+                  JIT compiler improves the performance of java applications at run time,also improves performance of java programms.
+                  It requires processor time and memory usage.
+                  JIT compiler runs after the programme has started and compiles the code.
+                  JIT compiler access to dynamic run time environment where as other standard compilers wont.
+                  It is often used with interpreted code to convert it to machine language.
+                  JIT is a part of JVM(java virtual machine).
+                  JVM:JVM is responsible to execute program line by line.
